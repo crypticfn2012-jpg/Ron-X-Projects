@@ -40,13 +40,13 @@
 
 ---
 
-## 🐸 Ron x Diddler (9.10)
+## 🐸 Ron x 9.10
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1471948087949000825/1501304759947366543/Ron__Diddler_paks.png?ex=6a018543&is=6a0033c3&hm=3db40c6b6f4a66b3f80f77935a99f40041e8b31d9355c7ff499603e3f652be8c&=&format=webp&quality=lossless&width=1224&height=612" width="800"/>
 </p>
 
-**Collab with The Diddler**
+**Ron's Paks**
 
 ### 📥 Downloads
 - 🗂️ **Paks:** https://mega.nz/folder/INMlGC6B#Tj5Fx28ouIqW25hOZgVXIw  
