@@ -10,7 +10,7 @@
 ## ⛏️ Ron X Vortyx
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1477399331110780928/1498832708263088178/Screenshot_2026-04-29_004541.png?ex=6a0118bc&is=69ffc73c&hm=2da15c12379896a9203626a6fab7900140bc3429034c06cf3be15d5c2cc0cb3b&=&format=webp&quality=lossless"800"/>
+  <img src="https://media.discordapp.net/attachments/1477399331110780928/1498832708263088178/Screenshot_2026-04-29_004541.png?ex=6a07077c&is=6a05b5fc&hm=304ab3fd3f5d07cb13b26c86ba7b25c719fd258f26bdacbb1fdefe5c93c5d2e6&=&format=webp&quality=lossless"/>
 </p>
 
 **Reboot with custom Vortyx cosmetics**
@@ -43,7 +43,7 @@
 ## 🐸 Ron x 9.10
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1471948087949000825/1501304759947366543/Ron__Diddler_paks.png?ex=6a018543&is=6a0033c3&hm=3db40c6b6f4a66b3f80f77935a99f40041e8b31d9355c7ff499603e3f652be8c&=&format=webp&quality=lossless&width=1224&height=612" width="800"/>
+  <img src="https://media.discordapp.net/attachments/1477399331110780928/1503150992517107743/ron_9.10_paks.png?ex=6a06eb33&is=6a0599b3&hm=ea1c939a88746cdc8e4b2f3c49d76043ebf2564bc8ec0f96bbcf90ba55c1e89e&=&format=webp&quality=lossless" width="800"/>
 </p>
 
 **Ron's Paks**
@@ -84,7 +84,7 @@
 ## 🎨 Ron X Cartoon Builds (12.41)
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1502475140968218694/1502478171575156766/image.png?ex=6a012cd6&is=69ffdb56&hm=57b1e513b9f6d298801ca3f161c8805dd9496fef8c681f728ea6a791f3718664&=&format=webp&quality=lossless"800"/>
+  <img src="https://media.discordapp.net/attachments/1502475140968218694/1502478171575156766/image.png?ex=6a071b96&is=6a05ca16&hm=1fc8e1224e7de04dd8bc054760e70ae677f652edb5ffcdf4497f4cc01ce73efc&=&format=webp&quality=lossless"/>
 </p>
 
 **Clean cartoon-style visuals**
